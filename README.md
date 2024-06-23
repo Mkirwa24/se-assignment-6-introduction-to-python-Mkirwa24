@@ -715,7 +715,7 @@ Python Software Foundation. (n.d.). Reading and Writing Files. Retrieved from ht
 
 W3Schools. (n.d.). Python File Handling.(https://www.w3schools.com/python/python_file_handling.asp)
 
-Python Documentation: Reading and Writing Fileshttps://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
+Python Documentation: Reading and Writing Files https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
 
 
 # Submission Guidelines:
