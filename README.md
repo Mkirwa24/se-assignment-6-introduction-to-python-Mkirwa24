@@ -7,7 +7,7 @@ Answer the following questions based on your understanding of Python programming
 
  Questions:
 
-1. Python Basics:
+# 1. Python Basics:
    - What is Python, and what are some of its key features that make it popular among developers? Provide examples of use cases where Python is particularly effective.
 
 Python is a high-level, interpreted programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes code readability and allows developers to write clear and logical code for small and large-scale projects.
@@ -118,7 +118,7 @@ rename_files('/path/to/your/directory')
 
 
 
-2. Installing Python:
+# 2. Installing Python:
    - Describe the steps to install Python on your operating system (Windows, macOS, or Linux). Include how to verify the installation and set up a virtual environment.
 
 Installing Python on your operating system involves downloading the installer, running the installation, verifying the installation, and setting up a virtual environment. Below are the detailed steps for Windows, macOS, and Linux.
@@ -162,7 +162,7 @@ deactivate
 
 
 
-3. Python Syntax and Semantics:
+# 3. Python Syntax and Semantics:
    - Write a simple Python program that prints "Hello, World!" to the console. Explain the basic syntax elements used in the program.
 
 To print "Hello, World!" to the console in Python, you can use the following simple script:
@@ -213,7 +213,7 @@ Strings:
 Strings are sequences of characters enclosed in quotes. They can include letters, numbers, and symbols.
 
 
-4. Data Types and Variables:
+# 4. Data Types and Variables:
    - List and describe the basic data types in Python. Write a short script that demonstrates how to create and use variables of different data types.
 
 Python has several built-in data types that are used to store different kinds of data. The primary data types include:
@@ -319,7 +319,7 @@ Variable unique_numbers stores a set of unique integers.
 Output: Unique Numbers: {1, 2, 3} Type: <class 'set'>
 
 
-5. Control Structures:
+# 5. Control Structures:
    - Explain the use of conditional statements and loops in Python. Provide examples of an `if-else` statement and a `for` loop.
 
 Conditional statements and loops are fundamental control structures in programming. They allow you to control the flow of your program based on conditions and to repeat tasks efficiently.
@@ -384,7 +384,7 @@ for fruit in fruits:
 
 
 
-6. Functions in Python:
+# 6. Functions in Python:
    - What are functions in Python, and why are they useful? Write a Python function that takes two arguments and returns their sum. Include an example of how to call this function.
 
 Functions in Python are reusable blocks of code designed to perform a specific task. They are useful because they help break down complex problems into smaller, manageable pieces, improve code readability, and allow for code reuse.
@@ -429,7 +429,7 @@ result = add_numbers(5, 3)
 print("The sum is:", result)
 
 
-7. Lists and Dictionaries:
+# 7. Lists and Dictionaries:
    - Describe the differences between lists and dictionaries in Python. Write a script that creates a list of numbers and a dictionary with some key-value pairs, then demonstrates basic operations on both.
 
 Lists
@@ -495,7 +495,7 @@ Accessing by key: Values are accessed using their keys.
 Checking for key existence using in.
 
 
-8. Exception Handling:
+# 8. Exception Handling:
    - What is exception handling in Python? Provide an example of how to use `try`, `except`, and `finally` blocks to handle errors in a Python script.
 
 Exception handling in Python is a mechanism for responding to runtime errors. Instead of terminating the program when an error occurs, Python allows you to catch and handle exceptions, enabling your program to continue running or to terminate gracefully. This is accomplished using the try, except, and finally blocks.
@@ -549,7 +549,7 @@ It's typically used for cleanup actions, such as closing files or releasing reso
 In this example, it simply prints a message indicating the completion of the try-except block.
 
 
-9. Modules and Packages:
+# 9. Modules and Packages:
    - Explain the concepts of modules and packages in Python. How can you import and use a module in your script? Provide an example using the `math` module.
 
 In Python, modules and packages are used to organize and reuse code efficiently.
@@ -614,7 +614,7 @@ print("Factorial of 5:", math.factorial(5))  # Output: 120
 
 
 
-10. File I/O:
+# 10. File I/O:
     - How do you read from and write to files in Python? Write a script that reads the content of a file and prints it to the console, and another script that writes a list of strings to a file.
 
 In Python, file operations are performed using built-in functions. Here’s a guide on how to read from and write to files.
